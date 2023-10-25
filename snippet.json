@@ -3,5 +3,5 @@
     "toolName": "ConQuest",
     "toolVersion": "23.10",
     "toolUrl": "https://via.vmware.com/conquest",
-    "toolSummary": "https://via.vmware.com/conquest"
+    "toolSummary": "ConQuest is a tool for enrolling XR Devices into Workspace ONE UEM. Currently compatible with Meta Quest, HTC VIVE and PICO devices."
 }
